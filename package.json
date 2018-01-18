@@ -26,7 +26,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "bip38": "^1.3.0",
-    "bitcore-lib": "https://github.com/NeblioTeam/bitcore-lib.git#neblcore-lib",,
+    "bitcore-lib": "https://github.com/NeblioTeam/bitcore-lib.git#neblcore-lib",
     "bitcore-mnemonic": "https://github.com/NeblioTeam/bitcore-mnemonic.git#neblcore-mnemonic",
     "bitcore-payment-protocol": "https://github.com/NeblioTeam/bitcore-payment-protocol.git#neblcore-payment-protocol",
     "browser-request": "^0.3.3",
