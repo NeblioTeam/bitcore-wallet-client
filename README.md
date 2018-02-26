@@ -8,7 +8,7 @@ The *official* client library for [bitcore-wallet-service] (https://github.com/b
 
 ## Making and Minifying:
 
-nvm exec 4.2 npm install && nvm exec 4.2 npm install scryptsy && rm bitcore-wallet-client.js;rm bitcore-wallet-client.min.js;node_modules/.bin/browserify index.js > bitcore-wallet-client.js && nvm exec 4.2 uglify -s bitcore-wallet-client.js  -o bitcore-wallet-client.min.js
+rm -r node_modules;nvm exec 4.2 npm install && nvm exec 4.2 npm install scryptsy && rm bitcore-wallet-client.js;rm bitcore-wallet-client.min.js;node_modules/.bin/browserify index.js > bitcore-wallet-client.js && nvm exec 4.2 uglify -s bitcore-wallet-client.js  -o bitcore-wallet-client.min.js
 
 ## Description
 
