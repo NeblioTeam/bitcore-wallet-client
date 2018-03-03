@@ -37,7 +37,7 @@
     "sjcl": "^1.0.2"
   },
   "devDependencies": {
-    "bitcore-wallet-service": "~1.9.0",
+    "bitcore-wallet-service": "https://github.com/NeblioTeam/bitcore-wallet-service.git#neblcore-wallet-service",
     "browserify": "^13.0.0",
     "chai": "^1.9.1",
     "coveralls": "^2.11.2",
